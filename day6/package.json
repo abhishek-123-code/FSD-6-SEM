@@ -1,0 +1,31 @@
+{
+<<<<<<< HEAD
+  "name": "day5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+=======
+  "dependencies": {
+    "express": "^5.2.1",
+    "fs": "^0.0.1-security"
+  },
+  "name": "day6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+>>>>>>> fb795d2 (add day6)
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+<<<<<<< HEAD
+  "description": "",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+=======
+  "type": "commonjs"
+>>>>>>> fb795d2 (add day6)
+}
